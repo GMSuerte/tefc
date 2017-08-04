@@ -1,0 +1,23 @@
+{
+  "name": "tefc",
+  "version": "1.0.0",
+  "description": "Vue components to use on TEFc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMSuerte/tefc.git"
+  },
+  "keywords": [
+    "vue",
+    "tefc"
+  ],
+  "author": "GMSuerte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GMSuerte/tefc/issues"
+  },
+  "homepage": "https://github.com/GMSuerte/tefc#readme"
+}
