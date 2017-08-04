@@ -2,6 +2,10 @@
   "name": "tefc",
   "version": "1.0.0",
   "description": "Vue components to use on TEFc",
+  "engines": {
+    "node": ">=8.2.1",
+    "npm": ">=5.3.0"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
